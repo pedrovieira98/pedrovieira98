@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am Pedro, an Electronics Engineer and a MSc Student interested in Video Streaming (both VOD and Live) and on Low Latency Transport.
+I do also love Physics, Astronomy, Music and Sports (bascially all of them 😄😄)
+
+
+
+You can check more about me at my [**personal website**](https://pedrovieira.github.io/), it's currently under development.
+
 <!--
 **pedrovieira98/pedrovieira98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
