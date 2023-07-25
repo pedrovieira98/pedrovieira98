@@ -5,7 +5,7 @@ I do also love Physics, Astronomy, Music and Sports (bascially all of them 😄�
 
 
 
-You can check more about me at my [**personal website**](https://pedrovieira.github.io/), it's currently under development.
+You can check more about me at my [**personal website**](https://pedrovieira98.github.io/pedrovieira.github.io/), it's currently under development.
 
 <!--
 **pedrovieira98/pedrovieira98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
