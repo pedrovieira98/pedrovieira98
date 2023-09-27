@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am Pedro, an Electronics Engineer and a MSc Student interested in Video Streaming (both VOD and Live) and on Low Latency Transport.
-I do also love Physics, Astronomy, Music and Sports (bascially all of them 😄😄)
+I am Pedro, an Electronics Engineer and a MSc Student interested in Video Streaming (both VOD and Live), on Low Latency Transport and Aerospace Engineering (Avionics Specially).
+I do also love Aerospace, Physics, Astronomy, Music and Sports (bascially all of them 😄😄)
 
 
 
